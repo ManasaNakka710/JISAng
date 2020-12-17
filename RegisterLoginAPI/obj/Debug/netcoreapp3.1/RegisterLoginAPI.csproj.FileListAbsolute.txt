@@ -1,0 +1,310 @@
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.exe
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.csprojAssemblyReference.cache
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.AssemblyInfoInputs.cache
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.AssemblyInfo.cs
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.RazorTargetAssemblyInfo.cache
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\staticwebassets\RegisterLoginAPI.StaticWebAssets.Manifest.cache
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\staticwebassets\RegisterLoginAPI.StaticWebAssets.xml
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.csproj.CopyComplete
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.deps.json
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.runtimeconfig.json
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.runtimeconfig.dev.json
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.pdb
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.dll
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.pdb
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.genruntimeconfig.cache
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Training Samples\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.csproj.CoreCompileInputs.cache
+C:\Training Samples\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.exe
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.deps.json
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.runtimeconfig.json
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.runtimeconfig.dev.json
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\RegisterLoginAPI.pdb
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.csprojAssemblyReference.cache
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.AssemblyInfoInputs.cache
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.AssemblyInfo.cs
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.csproj.CopyComplete
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\staticwebassets\RegisterLoginAPI.StaticWebAssets.Manifest.cache
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\staticwebassets\RegisterLoginAPI.StaticWebAssets.xml
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.dll
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.pdb
+C:\Users\hrmsr\Downloads\RegisterLoginAPI\RegisterLoginAPI\obj\Debug\netcoreapp3.1\RegisterLoginAPI.genruntimeconfig.cache
