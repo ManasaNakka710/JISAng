@@ -1,0 +1,38 @@
+<div class="col-md-6 offset-md-3 mt-5">
+	<div class="alert alert-info">
+		<!-- <strong>Normal User</strong> - U: user P: user<br />
+		<strong>Administrator</strong> - U: admin P: admin -->
+	</div>
+	<div class="card">
+		<!-- <h4 class="card-header">Angular 8 User Register & Login with Role Based Auth</h4> -->
+		<h1>JIS</h1>
+		<div class="card-body">
+			<form [formGroup]="loginForm" (ngSubmit)="onSubmit(loginForm.value)">
+				<div class="form-group">
+					<label for="UserName">UserName</label>
+					<input type="text" formControlName="UserName" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.UserName.errors }" />
+					<div *ngIf="submitted && f.UserName.errors" class="invalid-feedback">
+						<div *ngIf="f.UserName.errors.required">UserName is required</div>
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="Password">Password</label>
+					<input type="Password" formControlName="Password" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.Password.errors }" />
+					<div *ngIf="submitted && f.Password.errors" class="invalid-feedback">
+						<div *ngIf="f.Password.errors.required">Password is required</div>
+					</div>
+				</div>
+				<button [disabled]="loading" class="btn btn-primary">
+                    <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                    Login
+				</button>
+				&nbsp;
+				&nbsp;
+				<button class="btn btn-primary" routerLink="/register">
+            Register
+        </button>
+				<div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div>
+			</form>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,63 @@
+<h2>Register</h2>
+<div *ngIf="alert" class="alert alert-Success alert-dismissible fade show" role="alert">
+	<strong>Success</strong> Registered Successfully!
+	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+<form [formGroup]="registerForm" (ngSubmit)="onSubmit(registerForm.value)">
+	<!-- <input type="hidden" name="PMId" [value]="service.formData.PMId"> -->
+	<div class="form-group">
+		<label for="FirstName">First Name</label>
+		<input type="text" formControlName="FirstName" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.FirstName.errors}" />
+		<div *ngIf="submitted && f.FirstName.errors" class="invalid-feedback">
+			<div *ngIf="f.required">First Name is required</div>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="LastName">Last Name</label>
+		<input type="text" formControlName="LastName" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.LastName.errors }" />
+		<div *ngIf="submitted && f.LastName.errors" class="invalid-feedback">
+			<div *ngIf="f.LastName.errors.required">Last Name is required</div>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="UserName">UserName</label>
+		<input type="text" formControlName="UserName" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.UserName.errors }" />
+		<div *ngIf="submitted && f.UserName.errors" class="invalid-feedback">
+			<div *ngIf="f.UserName.errors.required">UserName is required</div>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="Password">Password</label>
+		<input type="Password" formControlName="Password" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.Password.errors }" />
+		<div *ngIf="submitted && f.Password.errors" class="invalid-feedback">
+			<div *ngIf="f.Password.errors.required">Password is required</div>
+			<div *ngIf="f.Password.errors.minlength">Password must be at least 6 characters</div>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="Role">Role</label>
+		<select name="Role" id="Role" formControlName="Role">
+            <option value="select" selected>Select</option>  
+            <option value="User">User</option>
+            <option value="PSA">PSA</option>
+            <option value="Legal Council">Legal Council</option>
+           
+          </select>
+	</div>
+
+	<div class="form-group">
+		<button [disabled]="loading" class="btn btn-primary" type="submit">
+            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+            Register
+		</button> 
+		&nbsp;
+		&nbsp;
+		
+		
+		<button class="btn btn-primary" routerLink="/login">
+            Login
+        </button>
+	</div>
+</form>
